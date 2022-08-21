@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">App_Doc_Truyen_Tranh1</string>
+
+    <string name="nav_Login">Đăng Nhập</string>
+    <string name="nav_Home">Trang Chủ</string>
+    <string name="nav_logout">Đăng Xuất</string>
+    <string name="nav_information">Thông Tin</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Open navigation drawer</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
